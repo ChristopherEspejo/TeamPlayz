@@ -1,0 +1,7 @@
+{
+  "name": "team-play",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
