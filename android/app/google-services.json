@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "774350942563",
+    "project_id": "teamplay-2db94",
+    "storage_bucket": "teamplay-2db94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774350942563:android:c876ab24e36cbb3814a356",
+        "android_client_info": {
+          "package_name": "app.g2.team_play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774350942563-nnrb2nna0qchrudhrurmqg9v2gr8emhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.g2.team_play",
+            "certificate_hash": "7ca8000756fb139fc9d1e0e799e0a50462ddb5e8"
+          }
+        },
+        {
+          "client_id": "774350942563-dbr61666d2ajb2gmp3tu9n8h102leh2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLzmPZbazlieauzHJuNzTAlwhePcYz3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774350942563-dbr61666d2ajb2gmp3tu9n8h102leh2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774350942563-7gjed6bnomm3tk8sj7d8uiuiqo49ndki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.g2.teamPlay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774350942563:android:7cb441b3d93453d214a356",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774350942563-6rk4cbao69lphgl2afkkjcb25qtq3oj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.starter",
+            "certificate_hash": "302d41e5e27be757650cc89f61f6100651b0e0d5"
+          }
+        },
+        {
+          "client_id": "774350942563-dbr61666d2ajb2gmp3tu9n8h102leh2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLzmPZbazlieauzHJuNzTAlwhePcYz3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774350942563-dbr61666d2ajb2gmp3tu9n8h102leh2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774350942563-7gjed6bnomm3tk8sj7d8uiuiqo49ndki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.g2.teamPlay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
